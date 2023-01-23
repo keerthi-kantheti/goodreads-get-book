@@ -3,3 +3,4 @@
 # goodreads-update-book
 # goodreads-delete-book
 # goodreads-get-books-by-authors-
+# goodreads-get-book-add-book-update-book-delete-book-books-by-author
